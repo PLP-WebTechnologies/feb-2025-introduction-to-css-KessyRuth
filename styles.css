@@ -1,0 +1,28 @@
+/* Style for the heading */
+.heading {
+    color: brown;
+    text-align: left;
+    font-size: 24px;
+}
+
+/* Style for the paragraph */
+#intro {
+    color: darkgray;
+    font-size: 18px;
+    margin: 10px;
+    padding: 5px;
+}
+
+/* Style for the image */
+.image {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 10px;
+    border: 3px solid black;
+}
+
+footer {
+    color: chocolate;
+    text-align: left;
+}
